@@ -3,3 +3,5 @@ _ReSharper.RavenDbUntypedGridExample
 RavenDbUntypedGridExample/obj
 RavenDbUntypedGridExample/bin
 *.suo
+packages
+*.DotSettings.user
