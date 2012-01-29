@@ -1,13 +1,11 @@
 ﻿namespace RavenDbUntypedGridExample
 {
     using System;
-    using System.Collections;
     using System.Collections.Generic;
     using System.Linq;
 
     using NUnit.Framework;
 
-    using Raven.Abstractions.Linq;
     using Raven.Client;
     using Raven.Client.Document;
 
